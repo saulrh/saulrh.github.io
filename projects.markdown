@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /projects
+sidebar_link: true
 ---
 
-This is a short list of things I've built or contributed to that I'm
-sufficiently proud of to want to show off. None of them are
-groundbreaking, but each of them made me happy in some way.
+These are some of the projects or contributions that I'm sufficiently
+proud of to talk about. Nothing groundbreaking or even significant,
+but each of them made me happy in some way.
 
 # XBindJoy
 
@@ -20,24 +21,22 @@ dramatically more power than they have in other macro-binding tools.
 I built XBindJoy because I wanted a better way to use my [Microsoft
 Sidewinder Strategic
 Commander](https://en.wikipedia.org/wiki/Microsoft_SideWinder#Strategic_Commander),
-which is kind of like the illegitimate offspring of a throttle lever
-and a gaming keypad. Its original drivers used the three thumb buttons
-and the three-position slider as layering toggles, giving the device a
-fantastic number of bindings. It was much less useful with
-gamepad-keybinding programs of the time, which generally didn't handle
-arbitrary layering. XBindJoy let me do basically whatever I wanted.
-
-As a secondary goal, I used XBindJoy to teach myself a bit about C,
-X11, the Linux joystick and event APIs, and embedded
-interpreters.
+which is sort of the illegitimate offspring of a throttle lever and a
+gaming keypad. Its original drivers used the three thumb buttons and
+the three-position slider as layering toggles, giving the device a
+fantastic number of bindings. The gamepad-keybinding programs I could
+find were, by comparison, disappointingly limited, so I built my
+own. As a secondary goal, I used XBindJoy to teach myself a bit about
+C, X11, the Linux joystick and event APIs, and embedded interpreters.
 
 # Tridactyl
 
 [Tridactyl](https://github.com/tridactyl/tridactyl) is a Vim-like
-interface for Firefox, inspired by Vimperator/Pentadactyl. I can't
-claim credit for starting the project, or even doing much of the work,
-but I am responsible for a couple notable code cleanups, features,
-bugfixes, and bugs:
+interface for Firefox. I use it for a major chunk of my interaction
+with the internet, like I did with Pentadactyl before it and
+Vimperator before _that_. I can't claim credit for starting the
+project, or even doing much of the work, but I am responsible for a
+couple notable code cleanups, features, bugfixes, and bugs:
 
 #### Vimperator-style hint filtering
 
@@ -47,7 +46,7 @@ having to locate and precisely type out a hint's randomly-selected
 identifier - you've already read and comprehended the link you want to
 follow, just type it in!
 
-#### Autocontainer Extension Coexistence
+#### Container-tab ecosystem citizenship
 
 Several popular Firefox extensions use Firefox's Containers feature to
 isolate particular sites, ensuring they're only ever opened in
@@ -61,7 +60,7 @@ feature](https://github.com/tridactyl/tridactyl/pull/953) teaches
 Tridactyl to use these APIs to coordinate with several of the more
 popular container-management extensions.
 
-#### Excmds in Content Script
+#### Move UI stuff to the UI thread
 
 The WebExtension model provides several contexts for extension
 code. Some code runs in a per-firefox-instance "background"
@@ -76,8 +75,6 @@ the wrong tab. [I
 did](https://github.com/tridactyl/tridactyl/pull/962) some
 [refactoring](https://github.com/tridactyl/tridactyl/pull/1489) to
 move a bunch of state that should have been per-tab into the per-tab
-scripts, dramatically improving stability and performance. Sadly, in
-that refactor I also introduced a major security bug, so go me. :tada:
-
-
-
+scripts, dramatically improving stability and performance. I also
+introduced a catastrophic security bug in that refactor, though, so go
+me >_<.

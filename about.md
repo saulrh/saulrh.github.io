@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+sidebar_link: true
 ---
 
 I am a modern wizard: I speak incantations to computers, who in turn
