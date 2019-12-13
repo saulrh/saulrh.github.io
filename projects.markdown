@@ -55,10 +55,10 @@ wrong container and reopening them with the right one. Configuring two
 or more extensions to contain the same site in different containers
 can lead to them fighting over the site and opening infinite
 tabs. Some extensions thankfully implement APIs that allow other
-extensions to cooperate with them, and [this
-feature](https://github.com/tridactyl/tridactyl/pull/953) teaches
-Tridactyl to use these APIs to coordinate with several of the more
-popular container-management extensions.
+extensions to cooperate with them, so [I taught Tridactyl
+](https://github.com/tridactyl/tridactyl/pull/953)
+to coordinate with several of the more
+popular container-management extensions to avoid conflicts.
 
 #### Move UI stuff to the UI thread
 
