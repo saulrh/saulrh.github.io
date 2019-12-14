@@ -79,7 +79,7 @@ digestion for a few days.
 - 1 teaspoon ground black pepper
 - 1/4 teaspoon crushed red pepper
 - 1.5 teaspoons kosher salt
-- 1 teapoon of ["chili oil with crunhy
+- 1 teapoon of ["chili oil with crunchy
   garlic"](https://smile.amazon.com/s?k=garlic+chili+oil)
 
 ## Previous attempts at the seasoning mix
