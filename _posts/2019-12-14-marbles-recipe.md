@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marbles
+title: Chocolate Marble Cookies
 category: Recipes
 ---
 
