@@ -4,10 +4,13 @@ title: Chocolate Marble Cookies
 category: Recipes
 ---
 
-A dense, moist chocolate cookie that's neither chewy nor crunchy. The
-sour cream adds some tang to bring out the chocolate and offset the
-sugar, while the baking powder and flour bring a solid structure to
-hold on to the extra liquids.
+![A picture of the cookies](/assets/images/marbles_cookies.jpg?raw=true)
+
+These cookies blend sour cream and chocolate to produce a study in
+contrasting harmony. The sour cream adds some tang to bring out the
+chocolate and offset the sugar, and the water it adds boils away from
+the surface to leave behind a crispy cookie shell around a moist,
+crumbly interior.
 
 Start to Eat time: ~2.5 hours:
 - Mise en place: 1 hour for the butter to come to room temperature.

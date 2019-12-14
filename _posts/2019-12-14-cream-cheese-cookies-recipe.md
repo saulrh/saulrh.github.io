@@ -4,6 +4,8 @@ title: Cream Cheese Cookies
 category: Recipes
 ---
 
+![A picture of the cookies](/assets/images/cream_cheese_cookies.jpg?raw=true)
+
 A deliciously soft, rich cookie that melts in your mouth. Fantastic
 with a little bit of milk. They're also very simple; if you're busy
 and don't care too much about the texture you can probably get away
