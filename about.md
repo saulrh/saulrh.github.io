@@ -10,9 +10,9 @@ manifest my will. Well, usually. [Calling up that which I cannot put
 down](https://youtu.be/Rrm8usaH0sM?t=162) is a biweekly occurrence.
 
 Less whimsically, I'm a creative, technically-minded
-builder-of-things. I enjoy programming, robotics, cooking, writing
-fiction, opening hundreds of tabs on Wikipedia, and playing video
-games.
+builder-of-things. I enjoy programming, robotics,
+[cooking](/category/recipes.html), writing fiction, opening hundreds
+of tabs on Wikipedia, and playing video games.
 
 Professionally, I'm a software engineer with publications in humanoid
 robotics and experience in CLI tooling, data-processing pipelines, and
