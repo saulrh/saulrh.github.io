@@ -15,7 +15,7 @@ Start to Eat time: ~2 hours:
 - Mise in place: 1 hour for the cream cheese and butter to come to
   room temperature
 - Prep: 15 minutes
-- Bake: 45 minutes for 3 batches at 15 minutes per batch
+- Bake: 30 minutes for 2 batches at 15 minutes per batch
 - Rest: None
 
 ## Ingredients
