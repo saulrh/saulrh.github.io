@@ -33,7 +33,6 @@ Start to Eat time: ~2 hours:
 1. Preheat oven to 350.
 1. If cream cheese is not at room temperature, wait until it
    is. Microwaving cream cheese is not a good idea.
-   it up using friction from the mixer?
 1. Combine butter, cream cheese, sugar. Beat until extremely fluffy.
 1. Add egg and vanilla extract.
 1. Add dry ingredients.
