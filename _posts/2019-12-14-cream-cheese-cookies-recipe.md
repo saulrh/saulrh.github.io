@@ -6,10 +6,11 @@ category: Recipes
 
 ![A picture of the cookies](/assets/images/cream_cheese_cookies.jpg?raw=true)
 
-A deliciously soft, rich cookie that melts in your mouth. Fantastic
-with a little bit of milk. They're also very simple; if you're busy
-and don't care too much about the texture you can probably get away
-with just throwing everything into a bowl and mixing it all up.
+These deliciously soft cookies are surprisingly light thanks to huge
+amounts of incorporated air trapped by the cream cheese. These are
+best right out of the oven, where they have just a hint of crispiness
+that melts in your mouth, but they're also an excellent choice for
+parties and cookie swaps.
 
 Start to Eat time: ~2 hours:
 - Mise in place: 1 hour for the cream cheese and butter to come to
