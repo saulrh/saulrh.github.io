@@ -4,19 +4,22 @@ title: Saag
 category: Recipes
 ---
 
-A savory curry dish with spinach. Just like the restaurant makes it,
-but vaguely healthy! I make this with tofu, but it should be easy to
-change it back to the original paneer.
+Savory spinach curry, american style. Just like the restaurant makes
+it but vaguely healthy! I make this with tofu, but it should be easy
+to change it back to the original paneer.
 
 It's important to use plain yogurt, not greek yogurt; the greek yogurt
 is too tangy and will dominate the dish. Also, [a good food
 processor](https://smile.amazon.com//dp/B01AXM4WV2) is _absolutely
 necessary_; trying to chop the spinach by hand won't get it fine
-enough no matter how long you spend chopping.
+enough no matter how much chopping you do.
 
 Note that I prefer my saag tofu very spicy. You will probably want to
 reduce this by using a less-spicy pepper or processing it to remove
 the spicy parts.
+
+No picture yet because I'm still trying to figure out how to plate the
+stuff in a vaguely palatable manner.
 
 Start to Eat time: ~1 hour:
 - Prep: 15 minutes
