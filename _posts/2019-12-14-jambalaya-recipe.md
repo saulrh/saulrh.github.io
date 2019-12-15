@@ -7,17 +7,17 @@ category: Recipes
 ![A picture of a bowl of jambalaya](/assets/images/jambalaya.jpg?raw=true)
 
 A hearty, savory creole dish with some personal modifications. The
-"holy trinity" of onion, celery, and bell pepper provides a wonderful
-aromatic base that's used to tie together a mix of spicy pork sausage,
-chicken, cayenne, parsley, and thyme. A single batch provides dinners
-for me for a week; it actually gets better the longer it sits in the
-fridge as the flavors mix together and deepen. As an added bonus, your
-entire house smells like cajun for days!
+"holy trinity" of onion, celery, and bell pepper are a wonderful
+aromatic base and tie together a mix of pork sausage, chicken,
+cayenne, parsley, and thyme. A single batch provides dinners for me
+for a week; it actually gets better the longer it sits in the fridge
+as the flavors mix together. As an added bonus, your entire house
+smells like cajun for days!
 
 The quinoa is extremely non-traditional, I know. I do think that
-quinoa's texture and taste add are an improvement over rice, but the
-real reason is that I react badly to carbs and the quinoa is much
-healthier than white rice.
+quinoa's texture and taste are an improvement over rice, but the real
+reason is that I react badly to carbs and the quinoa is healthier than
+white rice.
 
 Start to Eat time: ~1.5 hours:
 - Prep: 30 minutes
