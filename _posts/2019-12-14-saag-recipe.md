@@ -28,6 +28,7 @@ Start to Eat time: ~1 hour:
 ## Ingredients
 
 - 12 oz extra-firm tofu
+- 2 tablespoons turmeric
 - 1 teaspoon cayenne
 - A pinch of salt
 - 3 tablespoons oil
